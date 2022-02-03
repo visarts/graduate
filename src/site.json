@@ -1,0 +1,94 @@
+{
+  "classes": [
+    {
+      "name": "ICT 700",
+      "id": "class1",
+      "type": "core",
+      "goal": "To understand the purpose of the program and acquire necessary skills for future learning such as literature reviews and software collaboration.",
+      "artifact": {
+        "url": "https://visarts5.wixsite.com/learningmodule"
+      }
+    },
+    {
+      "name": "ICT 701",
+      "id": "class2",
+      "type": "core",
+      "goal": "To learn about how technology integrates with modern organizations, what led to those changes, and being able to discuss what they need in the future to facilitate more seamless integration.",
+      "artifact": {
+        "url": "https://youtu.be/5dicM4mTm-g"
+      }
+    },
+    {
+      "name": "ICT 710",
+      "id": "class3",
+      "type": "core",
+      "goal": "To understand the scope of, and challenges faced by the educational system in terms of technology and the pace of technological change and propose measures to alleviate those challenges.",
+      "artifact": {
+        "url": ""
+      }
+    },
+    {
+      "name": "ICT 732",
+      "id": "class4",
+      "type": "core",
+      "goal": "To gain a broad perspective about the nature of technological changes, the theories behind those changes, and be able to work on projects that involve creating scenarios for potential technological outcomes and their solutions.",
+      "artifact": {
+        "url": "https://youtu.be/VSdVqnYux7E"
+      }
+    },
+    {
+      "name": "ICT 733",
+      "id": "class5",
+      "type": "core",
+      "goal": "Gain the perspective of the opportunities, challenges, and local context involved in the integration of technology in businesses and be able to synthesize and communicate those factors in a professional setting, while offering potential solutions.",
+      "artifact": {
+        "url": ""
+      }
+    },
+    {
+      "name": "ICT 601",
+      "id": "class6",
+      "type": "emph",
+      "goal": "Understand the importance and role of regulation, security, and policy in the implementation of technologies within an organization and be able to provide analysis of the current legal and regulatory landscape in regards to technology.",
+      "artifact": {
+        "url": "https://youtu.be/m08FWF4amoM"
+      }
+    },
+    {
+      "name": "ENGL 615",
+      "id": "class7",
+      "type": "emph",
+      "goal": "To learn about the wide array of types of professional communication as it relates to technology and be able to create documents that effectively communicate using the right tools and understanding the affected audience.",
+      "artifact": {
+        "url": "https://youtu.be/CxPGiZ4yMJg"
+      }
+    },
+    {
+      "name": "DMT 511",
+      "id": "class8",
+      "type": "emph",
+      "goal": "Be able to understand and evaluate data metrics corresponding to an organization’s internet user activity, and present that analysis with data tools, giving recommendations as needed.",
+      "artifact": {
+        "url": "https://youtu.be/sHFWL6CYbEg"
+      }
+    },
+    {
+      "name": "INMGT 565",
+      "id": "class9",
+      "type": "emph",
+      "goal": "Understand the role of the project manager, the required elements of a project, the people involved, and the resources needed, and be able to synthesize those learnings in the form of a collaborative group presentation.",
+      "artifact": {
+        "url": ""
+      }
+    },
+    {
+      "name": "INMGT 901",
+      "id": "class10",
+      "type": "emph",
+      "goal": "Develop a personal philosophy of leadership based on the principle and models of ‘servant’ leadership.",
+      "artifact": {
+        "url": ""
+      }
+    }
+  ]
+}
